@@ -10,6 +10,7 @@ public class Abstraction {
         m1.eat();
         m1.leg();
         m1.run();
+       
     }
 }
 
